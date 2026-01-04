@@ -60,6 +60,7 @@
             )).join('');
             const cyrillicSampleText = "Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.";
             const arabicSampleText = "كل الناس يولدون أحراراً ومتساوين في الكرامة والحقوق. وقد وهبوا العقل والضمير، وعليهم أن يعامل بعضهم بعضاً بروح الإخاء.";
+            const koreanSampleText = "모든 인간은 태어날 때부터 자유로우며 존엄과 권리에 있어서 평등하다. 그들은 이성과 양심을 부여받았으며 서로에게 형제애의 정신으로 행동해야 한다.";
             const sampleTextMapping = {
                 "ASCII": latinSampleText,
                 "Adobe": latinSampleText,
@@ -71,7 +72,7 @@
                 "JIS0208": japaneseSampleText,
                 "JISX0201.1976": japaneseHankakuKatakanaSampleText,
                 "KOI8": cyrillicSampleText,
-                "KSC5601": "모든 인간은 태어날 때부터 자유로우며 존엄과 권리에 있어서 평등하다. 그들은 이성과 양심을 부여받았으며 서로에게 형제애의 정신으로 행동해야 한다.",
+                "KSC5601": koreanSampleText,
                 // "Misc": latinSampleText,
                 // "SunOLcursor": latinSampleText
                 // "SunOLglyph": latinSampleText
@@ -94,7 +95,13 @@
                     const name = `${font.family_name || key} ${font.size || '(No encoded glyphs)'}`;
                     const displayName = `${name} ${font.weight_name} ${font.slant}`;
                     const identifier = `${folder}-${key}`;
-                    h3.textContent = displayName;
+                    h3.textContent = displayName + " (";
+
+                    const code = document.createElement("code");
+                    code.textContent = key;
+                    h3.appendChild(code);
+                    h3.appendChild(document.createTextNode(")"));
+
                     li.appendChild(h3);
                     ul.appendChild(li);
 
@@ -147,6 +154,12 @@
                         sampleText.textContent = Array.from({ length: 0x1b - 0x01 + 1 }, (_, i) => String.fromCharCode(0x01 + i)).join('');
                         sampleText.title = "Cursor characters 0x01-0x1B";
                         sampleText.style.textDecoration = "underline dotted";
+                    } else if (key === "12x13ja" || key === "18x18ja" || key === "k14") {
+                        sampleText.textContent = japaneseSampleText;
+                        sampleText.lang = "ja";
+                    } else if (key === "18x18ko") {
+                        sampleText.textContent = koreanSampleText;
+                        sampleText.lang = "ko";
                     }
                     sampleText.style.fontFamily = `'${identifier}', Tofu`;
                     sampleText.style.fontSize = `calc(${font.size}px * var(--scale, 1))`;
