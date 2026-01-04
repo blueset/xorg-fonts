@@ -1,0 +1,4324 @@
+{
+    "font-adobe-100dpi-1.0.4": {
+        "courB08": {
+            "size": 11,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courB10": {
+            "size": 14,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courB12": {
+            "size": 17,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courB14": {
+            "size": 20,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courB18": {
+            "size": 25,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courB24": {
+            "size": 34,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courBO08": {
+            "size": 11,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courBO10": {
+            "size": 14,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courBO12": {
+            "size": 17,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courBO14": {
+            "size": 20,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courBO18": {
+            "size": 25,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courBO24": {
+            "size": 34,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courO08": {
+            "size": 11,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courO10": {
+            "size": 14,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courO12": {
+            "size": 17,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courO14": {
+            "size": 20,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courO18": {
+            "size": 25,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courO24": {
+            "size": 34,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courR08": {
+            "size": 11,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courR10": {
+            "size": 14,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courR12": {
+            "size": 17,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courR14": {
+            "size": 20,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courR18": {
+            "size": 25,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courR24": {
+            "size": 34,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvB08": {
+            "size": 11,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvB10": {
+            "size": 14,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvB12": {
+            "size": 17,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvB14": {
+            "size": 20,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvB18": {
+            "size": 25,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvB24": {
+            "size": 34,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvBO08": {
+            "size": 11,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvBO10": {
+            "size": 14,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvBO12": {
+            "size": 17,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvBO14": {
+            "size": 20,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvBO18": {
+            "size": 25,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvBO24": {
+            "size": 34,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvO08": {
+            "size": 11,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvO10": {
+            "size": 14,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvO12": {
+            "size": 17,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvO14": {
+            "size": 20,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvO18": {
+            "size": 25,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvO24": {
+            "size": 34,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvR08": {
+            "size": 11,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvR10": {
+            "size": 14,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvR12": {
+            "size": 17,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvR14": {
+            "size": 20,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvR18": {
+            "size": 25,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvR24": {
+            "size": 34,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenB08": {
+            "size": 11,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenB10": {
+            "size": 14,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenB12": {
+            "size": 17,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenB14": {
+            "size": 20,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenB18": {
+            "size": 25,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenB24": {
+            "size": 34,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenBI08": {
+            "size": 11,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenBI10": {
+            "size": 14,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenBI12": {
+            "size": 17,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenBI14": {
+            "size": 20,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenBI18": {
+            "size": 25,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenBI24": {
+            "size": 34,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenI08": {
+            "size": 11,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenI10": {
+            "size": 14,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenI12": {
+            "size": 17,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenI14": {
+            "size": 20,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenI18": {
+            "size": 25,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenI24": {
+            "size": 34,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenR08": {
+            "size": 11,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenR10": {
+            "size": 14,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenR12": {
+            "size": 17,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenR14": {
+            "size": 20,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenR18": {
+            "size": 25,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenR24": {
+            "size": 34,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "symb08": {
+            "size": 11,
+            "family_name": "Symbol",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "Adobe"
+        },
+        "symb10": {
+            "size": 14,
+            "family_name": "Symbol",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "Adobe"
+        },
+        "symb12": {
+            "size": 17,
+            "family_name": "Symbol",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "Adobe"
+        },
+        "symb14": {
+            "size": 20,
+            "family_name": "Symbol",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "Adobe"
+        },
+        "symb18": {
+            "size": 25,
+            "family_name": "Symbol",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "Adobe"
+        },
+        "symb24": {
+            "size": 34,
+            "family_name": "Symbol",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "Adobe"
+        },
+        "timB08": {
+            "size": 11,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timB10": {
+            "size": 14,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timB12": {
+            "size": 17,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timB14": {
+            "size": 20,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timB18": {
+            "size": 25,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timB24": {
+            "size": 34,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timBI08": {
+            "size": 11,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timBI10": {
+            "size": 14,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timBI12": {
+            "size": 17,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timBI14": {
+            "size": 20,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timBI18": {
+            "size": 25,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timBI24": {
+            "size": 34,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timI08": {
+            "size": 11,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timI10": {
+            "size": 14,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timI12": {
+            "size": 17,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timI14": {
+            "size": 20,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timI18": {
+            "size": 25,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timI24": {
+            "size": 34,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timR08": {
+            "size": 11,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timR10": {
+            "size": 14,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timR12": {
+            "size": 17,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timR14": {
+            "size": 20,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timR18": {
+            "size": 25,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timR24": {
+            "size": 34,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        }
+    },
+    "font-adobe-75dpi-1.0.4": {
+        "courB08": {
+            "size": 8,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courB10": {
+            "size": 10,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courB12": {
+            "size": 12,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courB14": {
+            "size": 14,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courB18": {
+            "size": 18,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courB24": {
+            "size": 24,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courBO08": {
+            "size": 8,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courBO10": {
+            "size": 10,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courBO12": {
+            "size": 12,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courBO14": {
+            "size": 14,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courBO18": {
+            "size": 18,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courBO24": {
+            "size": 24,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courO08": {
+            "size": 8,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courO10": {
+            "size": 10,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courO12": {
+            "size": 12,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courO14": {
+            "size": 14,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courO18": {
+            "size": 18,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courO24": {
+            "size": 24,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "courR08": {
+            "size": 8,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courR10": {
+            "size": 10,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courR12": {
+            "size": 12,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courR14": {
+            "size": 14,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courR18": {
+            "size": 18,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "courR24": {
+            "size": 24,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvB08": {
+            "size": 8,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvB10": {
+            "size": 10,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvB12": {
+            "size": 12,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvB14": {
+            "size": 14,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvB18": {
+            "size": 18,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvB24": {
+            "size": 24,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvBO08": {
+            "size": 8,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvBO10": {
+            "size": 10,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvBO12": {
+            "size": 12,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvBO14": {
+            "size": 14,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvBO18": {
+            "size": 18,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvBO24": {
+            "size": 24,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvO08": {
+            "size": 8,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvO10": {
+            "size": 10,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvO12": {
+            "size": 12,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvO14": {
+            "size": 14,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvO18": {
+            "size": 18,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvO24": {
+            "size": 24,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "helvR08": {
+            "size": 8,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvR10": {
+            "size": 10,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvR12": {
+            "size": 12,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvR14": {
+            "size": 14,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvR18": {
+            "size": 18,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "helvR24": {
+            "size": 24,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenB08": {
+            "size": 8,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenB10": {
+            "size": 10,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenB12": {
+            "size": 12,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenB14": {
+            "size": 14,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenB18": {
+            "size": 18,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenB24": {
+            "size": 24,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenBI08": {
+            "size": 8,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenBI10": {
+            "size": 10,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenBI12": {
+            "size": 12,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenBI14": {
+            "size": 14,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenBI18": {
+            "size": 18,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenBI24": {
+            "size": 24,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenI08": {
+            "size": 8,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenI10": {
+            "size": 10,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenI12": {
+            "size": 12,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenI14": {
+            "size": 14,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenI18": {
+            "size": 18,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenI24": {
+            "size": 24,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "ncenR08": {
+            "size": 8,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenR10": {
+            "size": 10,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenR12": {
+            "size": 12,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenR14": {
+            "size": 14,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenR18": {
+            "size": 18,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "ncenR24": {
+            "size": 24,
+            "family_name": "New Century Schoolbook",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "symb08": {
+            "size": 8,
+            "family_name": "Symbol",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "Adobe"
+        },
+        "symb10": {
+            "size": 10,
+            "family_name": "Symbol",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "Adobe"
+        },
+        "symb12": {
+            "size": 12,
+            "family_name": "Symbol",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "Adobe"
+        },
+        "symb14": {
+            "size": 14,
+            "family_name": "Symbol",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "Adobe"
+        },
+        "symb18": {
+            "size": 18,
+            "family_name": "Symbol",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "Adobe"
+        },
+        "symb24": {
+            "size": 24,
+            "family_name": "Symbol",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "Adobe"
+        },
+        "timB08": {
+            "size": 8,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timB10": {
+            "size": 10,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timB12": {
+            "size": 12,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timB14": {
+            "size": 14,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timB18": {
+            "size": 18,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timB24": {
+            "size": 24,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timBI08": {
+            "size": 8,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timBI10": {
+            "size": 10,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timBI12": {
+            "size": 12,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timBI14": {
+            "size": 14,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timBI18": {
+            "size": 18,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timBI24": {
+            "size": 24,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timI08": {
+            "size": 8,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timI10": {
+            "size": 10,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timI12": {
+            "size": 12,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timI14": {
+            "size": 14,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timI18": {
+            "size": 18,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timI24": {
+            "size": 24,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "timR08": {
+            "size": 8,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timR10": {
+            "size": 10,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timR12": {
+            "size": 12,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timR14": {
+            "size": 14,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timR18": {
+            "size": 18,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "timR24": {
+            "size": 24,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        }
+    },
+    "font-adobe-utopia-100dpi-1.0.5": {
+        "UTBI__10": {
+            "size": 14,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTBI__12": {
+            "size": 17,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTBI__14": {
+            "size": 19,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTBI__18": {
+            "size": 25,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTBI__24": {
+            "size": 33,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTB___10": {
+            "size": 14,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTB___12": {
+            "size": 17,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTB___14": {
+            "size": 19,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTB___18": {
+            "size": 25,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTB___24": {
+            "size": 33,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTI___10": {
+            "size": 14,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTI___12": {
+            "size": 17,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTI___14": {
+            "size": 19,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTI___18": {
+            "size": 25,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTI___24": {
+            "size": 33,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTRG__10": {
+            "size": 14,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTRG__12": {
+            "size": 17,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTRG__14": {
+            "size": 19,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTRG__18": {
+            "size": 25,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTRG__24": {
+            "size": 33,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        }
+    },
+    "font-adobe-utopia-75dpi-1.0.5": {
+        "UTBI__10": {
+            "size": 10,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTBI__12": {
+            "size": 12,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTBI__14": {
+            "size": 15,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTBI__18": {
+            "size": 19,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTBI__24": {
+            "size": 25,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTB___10": {
+            "size": 10,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTB___12": {
+            "size": 12,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTB___14": {
+            "size": 15,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTB___18": {
+            "size": 19,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTB___24": {
+            "size": 25,
+            "family_name": "Utopia",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTI___10": {
+            "size": 10,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTI___12": {
+            "size": 12,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTI___14": {
+            "size": 15,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTI___18": {
+            "size": 19,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTI___24": {
+            "size": 25,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "UTRG__10": {
+            "size": 10,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTRG__12": {
+            "size": 12,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTRG__14": {
+            "size": 15,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTRG__18": {
+            "size": 19,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "UTRG__24": {
+            "size": 25,
+            "family_name": "Utopia",
+            "weight_name": "Regular",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        }
+    },
+    "font-arabic-misc-1.0.4": {
+        "arabic24": {
+            "size": 32,
+            "family_name": "Newspaper",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        }
+    },
+    "font-bh-100dpi-1.0.4": {
+        "lubB08": {
+            "size": 11,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubB10": {
+            "size": 14,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubB12": {
+            "size": 17,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubB14": {
+            "size": 20,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubB18": {
+            "size": 25,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubB19": {
+            "size": 26,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubB24": {
+            "size": 34,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubBI08": {
+            "size": 11,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubBI10": {
+            "size": 14,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubBI12": {
+            "size": 17,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubBI14": {
+            "size": 20,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubBI18": {
+            "size": 25,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubBI19": {
+            "size": 26,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubBI24": {
+            "size": 34,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubI08": {
+            "size": 11,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubI10": {
+            "size": 14,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubI12": {
+            "size": 17,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubI14": {
+            "size": 20,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubI18": {
+            "size": 25,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubI19": {
+            "size": 26,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubI24": {
+            "size": 34,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luBIS08": {
+            "size": 11,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luBIS10": {
+            "size": 14,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luBIS12": {
+            "size": 17,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luBIS14": {
+            "size": 20,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luBIS18": {
+            "size": 25,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luBIS19": {
+            "size": 26,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luBIS24": {
+            "size": 34,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubR08": {
+            "size": 11,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubR10": {
+            "size": 14,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubR12": {
+            "size": 17,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubR14": {
+            "size": 20,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubR18": {
+            "size": 25,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubR19": {
+            "size": 26,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubR24": {
+            "size": 34,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luBS08": {
+            "size": 11,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luBS10": {
+            "size": 14,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luBS12": {
+            "size": 17,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luBS14": {
+            "size": 20,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luBS18": {
+            "size": 25,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luBS19": {
+            "size": 26,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luBS24": {
+            "size": 34,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luIS08": {
+            "size": 11,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luIS10": {
+            "size": 14,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luIS12": {
+            "size": 17,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luIS14": {
+            "size": 20,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luIS18": {
+            "size": 25,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luIS19": {
+            "size": 26,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luIS24": {
+            "size": 34,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luRS08": {
+            "size": 11,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luRS10": {
+            "size": 14,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luRS12": {
+            "size": 17,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luRS14": {
+            "size": 20,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luRS18": {
+            "size": 25,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luRS19": {
+            "size": 26,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luRS24": {
+            "size": 34,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        }
+    },
+    "font-bh-75dpi-1.0.4": {
+        "lubB08": {
+            "size": 8,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubB10": {
+            "size": 10,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubB12": {
+            "size": 12,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubB14": {
+            "size": 14,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubB18": {
+            "size": 18,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubB19": {
+            "size": 19,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubB24": {
+            "size": 24,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubBI08": {
+            "size": 8,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubBI10": {
+            "size": 10,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubBI12": {
+            "size": 12,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubBI14": {
+            "size": 14,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubBI18": {
+            "size": 18,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubBI19": {
+            "size": 19,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubBI24": {
+            "size": 24,
+            "family_name": "LucidaBright",
+            "weight_name": "DemiBold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubI08": {
+            "size": 8,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubI10": {
+            "size": 10,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubI12": {
+            "size": 12,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubI14": {
+            "size": 14,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubI18": {
+            "size": 18,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubI19": {
+            "size": 19,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubI24": {
+            "size": 24,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luBIS08": {
+            "size": 8,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luBIS10": {
+            "size": 10,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luBIS12": {
+            "size": 12,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luBIS14": {
+            "size": 14,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luBIS18": {
+            "size": 18,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luBIS19": {
+            "size": 19,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luBIS24": {
+            "size": 24,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "lubR08": {
+            "size": 8,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubR10": {
+            "size": 10,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubR12": {
+            "size": 12,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubR14": {
+            "size": 14,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubR18": {
+            "size": 18,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubR19": {
+            "size": 19,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lubR24": {
+            "size": 24,
+            "family_name": "LucidaBright",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luBS08": {
+            "size": 8,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luBS10": {
+            "size": 10,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luBS12": {
+            "size": 12,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luBS14": {
+            "size": 14,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luBS18": {
+            "size": 18,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luBS19": {
+            "size": 19,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luBS24": {
+            "size": 24,
+            "family_name": "Lucida",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luIS08": {
+            "size": 8,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luIS10": {
+            "size": 10,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luIS12": {
+            "size": 12,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luIS14": {
+            "size": 14,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luIS18": {
+            "size": 18,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luIS19": {
+            "size": 19,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luIS24": {
+            "size": 24,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO10646"
+        },
+        "luRS08": {
+            "size": 8,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luRS10": {
+            "size": 10,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luRS12": {
+            "size": 12,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luRS14": {
+            "size": 14,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luRS18": {
+            "size": 18,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luRS19": {
+            "size": 19,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "luRS24": {
+            "size": 24,
+            "family_name": "Lucida",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        }
+    },
+    "font-bh-lucidatypewriter-100dpi-1.0.4": {
+        "lutBS08": {
+            "size": 11,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutBS10": {
+            "size": 14,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutBS12": {
+            "size": 17,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutBS14": {
+            "size": 20,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutBS18": {
+            "size": 25,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutBS19": {
+            "size": 26,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutBS24": {
+            "size": 34,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutRS08": {
+            "size": 11,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutRS10": {
+            "size": 14,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutRS12": {
+            "size": 17,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutRS14": {
+            "size": 20,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutRS18": {
+            "size": 25,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutRS19": {
+            "size": 26,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutRS24": {
+            "size": 34,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        }
+    },
+    "font-bh-lucidatypewriter-75dpi-1.0.4": {
+        "lutBS08": {
+            "size": 8,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutBS10": {
+            "size": 10,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutBS12": {
+            "size": 12,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutBS14": {
+            "size": 14,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutBS18": {
+            "size": 18,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutBS19": {
+            "size": 19,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutBS24": {
+            "size": 24,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutRS08": {
+            "size": 8,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutRS10": {
+            "size": 10,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutRS12": {
+            "size": 12,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutRS14": {
+            "size": 14,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutRS18": {
+            "size": 18,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutRS19": {
+            "size": 19,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "lutRS24": {
+            "size": 24,
+            "family_name": "LucidaTypewriter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        }
+    },
+    "font-bitstream-100dpi-1.0.4": {
+        "charB08": {
+            "size": 11,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charB10": {
+            "size": 14,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charB12": {
+            "size": 17,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charB14": {
+            "size": 19,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charB18": {
+            "size": 25,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charB24": {
+            "size": 33,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charBI08": {
+            "size": 11,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charBI10": {
+            "size": 14,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charBI12": {
+            "size": 17,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charBI14": {
+            "size": 19,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charBI18": {
+            "size": 25,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charBI24": {
+            "size": 33,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charI08": {
+            "size": 11,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charI10": {
+            "size": 14,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charI12": {
+            "size": 17,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charI14": {
+            "size": 19,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charI18": {
+            "size": 25,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charI24": {
+            "size": 33,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charR08": {
+            "size": 11,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charR10": {
+            "size": 14,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charR12": {
+            "size": 17,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charR14": {
+            "size": 19,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charR18": {
+            "size": 25,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charR24": {
+            "size": 33,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "tech14": {
+            "size": 18,
+            "family_name": "Terminal",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "DEC"
+        },
+        "techB14": {
+            "size": 18,
+            "family_name": "Terminal",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "DEC"
+        },
+        "term14": {
+            "size": 18,
+            "family_name": "Terminal",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "termB14": {
+            "size": 18,
+            "family_name": "Terminal",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        }
+    },
+    "font-bitstream-75dpi-1.0.4": {
+        "charB08": {
+            "size": 8,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charB10": {
+            "size": 10,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charB12": {
+            "size": 12,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charB14": {
+            "size": 15,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charB18": {
+            "size": 19,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charB24": {
+            "size": 25,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charBI08": {
+            "size": 8,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charBI10": {
+            "size": 10,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charBI12": {
+            "size": 12,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charBI14": {
+            "size": 15,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charBI18": {
+            "size": 19,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charBI24": {
+            "size": 25,
+            "family_name": "Charter",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charI08": {
+            "size": 8,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charI10": {
+            "size": 10,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charI12": {
+            "size": 12,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charI14": {
+            "size": 15,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charI18": {
+            "size": 19,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charI24": {
+            "size": 25,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ISO8859-1"
+        },
+        "charR08": {
+            "size": 8,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charR10": {
+            "size": 10,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charR12": {
+            "size": 12,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charR14": {
+            "size": 15,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charR18": {
+            "size": 19,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "charR24": {
+            "size": 25,
+            "family_name": "Charter",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "tech14": {
+            "size": 14,
+            "family_name": "Terminal",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "DEC"
+        },
+        "techB14": {
+            "size": 14,
+            "family_name": "Terminal",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "DEC"
+        },
+        "term14": {
+            "size": 14,
+            "family_name": "Terminal",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "termB14": {
+            "size": 14,
+            "family_name": "Terminal",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        }
+    },
+    "font-cronyx-cyrillic-1.0.4": {
+        "crox1c": {
+            "size": 14,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox1cb": {
+            "size": 14,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox1cbo": {
+            "size": 14,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox1co": {
+            "size": 14,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox1h": {
+            "size": 11,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox1hb": {
+            "size": 11,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox1hbo": {
+            "size": 11,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox1ho": {
+            "size": 11,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox1t": {
+            "size": 11,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox1tb": {
+            "size": 11,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox1tbo": {
+            "size": 11,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "KOI8"
+        },
+        "crox1to": {
+            "size": 11,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "KOI8"
+        },
+        "crox2c": {
+            "size": 17,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox2cb": {
+            "size": 17,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox2cbo": {
+            "size": 17,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox2co": {
+            "size": 17,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox2h": {
+            "size": 14,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox2hb": {
+            "size": 14,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox2hbo": {
+            "size": 14,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox2ho": {
+            "size": 14,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox2t": {
+            "size": 14,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox2tb": {
+            "size": 14,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox2tbo": {
+            "size": 14,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "KOI8"
+        },
+        "crox2to": {
+            "size": 14,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "KOI8"
+        },
+        "crox3c": {
+            "size": 20,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox3cb": {
+            "size": 20,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox3cbo": {
+            "size": 20,
+            "family_name": "Courier",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox3co": {
+            "size": 20,
+            "family_name": "Courier",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox3h": {
+            "size": 17,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox3hb": {
+            "size": 17,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox3hbo": {
+            "size": 17,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox3ho": {
+            "size": 17,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox3t": {
+            "size": 17,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox3tb": {
+            "size": 17,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox3tbo": {
+            "size": 17,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "KOI8"
+        },
+        "crox3to": {
+            "size": 17,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "KOI8"
+        },
+        "crox4h": {
+            "size": 20,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox4hb": {
+            "size": 20,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox4hbo": {
+            "size": 20,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox4ho": {
+            "size": 20,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox4t": {
+            "size": 20,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox4tb": {
+            "size": 20,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox4tbo": {
+            "size": 20,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "KOI8"
+        },
+        "crox4to": {
+            "size": 20,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "KOI8"
+        },
+        "crox5h": {
+            "size": 25,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox5hb": {
+            "size": 25,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox5hbo": {
+            "size": 25,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox5ho": {
+            "size": 25,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox5t": {
+            "size": 25,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox5tb": {
+            "size": 25,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox5tbo": {
+            "size": 25,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "KOI8"
+        },
+        "crox5to": {
+            "size": 25,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "KOI8"
+        },
+        "crox6h": {
+            "size": 34,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox6hb": {
+            "size": 34,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox6hbo": {
+            "size": 34,
+            "family_name": "Helvetica",
+            "weight_name": "Bold",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox6ho": {
+            "size": 34,
+            "family_name": "Helvetica",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "KOI8"
+        },
+        "crox6t": {
+            "size": 34,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox6tb": {
+            "size": 34,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "crox6tbo": {
+            "size": 34,
+            "family_name": "Times",
+            "weight_name": "Bold",
+            "slant": "I",
+            "charset_registry": "KOI8"
+        },
+        "crox6to": {
+            "size": 34,
+            "family_name": "Times",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "KOI8"
+        },
+        "koi10x16b": {
+            "size": 16,
+            "family_name": "Fixed",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi10x20": {
+            "size": 20,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi6x10": {
+            "size": 10,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koinil2": {
+            "size": 2,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        }
+    },
+    "font-cursor-misc-1.0.4": {
+        "cursor": {
+            "size": 0,
+            "family_name": "",
+            "weight_name": "Regular",
+            "slant": "R",
+            "charset_registry": ""
+        }
+    },
+    "font-daewoo-misc-1.0.4": {
+        "hanglg16": {
+            "size": 16,
+            "family_name": "Gothic",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KSC5601"
+        },
+        "hanglm16": {
+            "size": 16,
+            "family_name": "Mincho",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KSC5601"
+        },
+        "hanglm24": {
+            "size": 24,
+            "family_name": "Mincho",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KSC5601"
+        }
+    },
+    "font-dec-misc-1.0.4": {
+        "deccurs": {
+            "size": 0,
+            "family_name": "",
+            "weight_name": "Regular",
+            "slant": "R",
+            "charset_registry": ""
+        },
+        "decsess": {
+            "size": 0,
+            "family_name": "",
+            "weight_name": "Regular",
+            "slant": "R",
+            "charset_registry": ""
+        }
+    },
+    "font-isas-misc-1.0.4": {
+        "gb16fs": {
+            "size": 16,
+            "family_name": "Fangsong ti",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "GB2312"
+        },
+        "gb16st": {
+            "size": 16,
+            "family_name": "Song ti",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "GB2312"
+        },
+        "gb24st": {
+            "size": 24,
+            "family_name": "Song ti",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "GB2312"
+        }
+    },
+    "font-jis-misc-1.0.4": {
+        "jiskan16": {
+            "size": 16,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "JIS0208"
+        },
+        "jiskan24": {
+            "size": 24,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "JIS0208"
+        }
+    },
+    "font-micro-misc-1.0.4": {
+        "micro": {
+            "size": 5,
+            "family_name": "",
+            "weight_name": "Regular",
+            "slant": "R",
+            "charset_registry": ""
+        }
+    },
+    "font-misc-cyrillic-1.0.4": {
+        "koi12x24": {
+            "size": 24,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi12x24b": {
+            "size": 24,
+            "family_name": "Fixed",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi5x8": {
+            "size": 8,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi6x13": {
+            "size": 13,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi6x13b": {
+            "size": 13,
+            "family_name": "Fixed",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi6x9": {
+            "size": 9,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi7x14": {
+            "size": 14,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi7x14b": {
+            "size": 14,
+            "family_name": "Fixed",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi8x13": {
+            "size": 13,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi8x16": {
+            "size": 16,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi8x16b": {
+            "size": 16,
+            "family_name": "Fixed",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi9x15": {
+            "size": 15,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi9x15b": {
+            "size": 15,
+            "family_name": "Fixed",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi9x18": {
+            "size": 18,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "koi9x18b": {
+            "size": 18,
+            "family_name": "Fixed",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        }
+    },
+    "font-misc-misc-1.1.3": {
+        "10x20": {
+            "size": 20,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "12x13ja": {
+            "size": 13,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "18x18ja": {
+            "size": 18,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "18x18ko": {
+            "size": 18,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "4x6": {
+            "size": 6,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "5x7": {
+            "size": 7,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "5x8": {
+            "size": 8,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "6x10": {
+            "size": 10,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "6x12": {
+            "size": 12,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "6x13": {
+            "size": 13,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "6x13B": {
+            "size": 13,
+            "family_name": "Fixed",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "6x13O": {
+            "size": 13,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "6x9": {
+            "size": 9,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "7x13": {
+            "size": 13,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "7x13B": {
+            "size": 13,
+            "family_name": "Fixed",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "7x13O": {
+            "size": 13,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "7x14": {
+            "size": 14,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "7x14B": {
+            "size": 14,
+            "family_name": "Fixed",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "8x13": {
+            "size": 13,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "8x13B": {
+            "size": 13,
+            "family_name": "Fixed",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "8x13O": {
+            "size": 13,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "O",
+            "charset_registry": "ISO10646"
+        },
+        "9x15": {
+            "size": 15,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "9x15B": {
+            "size": 15,
+            "family_name": "Fixed",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "9x18": {
+            "size": 18,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "9x18B": {
+            "size": 18,
+            "family_name": "Fixed",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "k14": {
+            "size": 14,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "JIS0208"
+        },
+        "nil2": {
+            "size": 2,
+            "family_name": "Nil",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "Misc"
+        }
+    },
+    "font-mutt-misc-1.0.4": {
+        "cu-alt12": {
+            "size": 17,
+            "family_name": "ClearlyU Alternate Glyphs",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "cu-arabic12": {
+            "size": 17,
+            "family_name": "ClearlyU Arabic Extra",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "FontSpecific"
+        },
+        "cu-devnag12": {
+            "size": 17,
+            "family_name": "ClearlyU Devangari Extra",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "FontSpecific"
+        },
+        "cu-lig12": {
+            "size": 17,
+            "family_name": "ClearlyU Ligature",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "FontSpecific"
+        },
+        "cu-pua12": {
+            "size": 17,
+            "family_name": "ClearlyU PUA",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "cu12": {
+            "size": 17,
+            "family_name": "ClearlyU",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "cuarabic12": {
+            "size": 17,
+            "family_name": "ClearlyU Arabic Extra",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "FontSpecific"
+        },
+        "cudevnag12": {
+            "size": 15,
+            "family_name": "ClearlyU Devanagari",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "FontSpecific"
+        }
+    },
+    "font-schumacher-misc-1.1.3": {
+        "clB6x10": {
+            "size": 10,
+            "family_name": "Clean",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clB6x12": {
+            "size": 12,
+            "family_name": "Clean",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clB8x10": {
+            "size": 10,
+            "family_name": "Clean",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clB8x12": {
+            "size": 12,
+            "family_name": "Clean",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clB8x13": {
+            "size": 13,
+            "family_name": "Clean",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clB8x14": {
+            "size": 14,
+            "family_name": "Clean",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clB8x16": {
+            "size": 16,
+            "family_name": "Clean",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clB8x8": {
+            "size": 8,
+            "family_name": "Clean",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clB9x15": {
+            "size": 15,
+            "family_name": "Clean",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clI6x12": {
+            "size": 12,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ASCII"
+        },
+        "clI8x8": {
+            "size": 8,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "I",
+            "charset_registry": "ASCII"
+        },
+        "clR4x6": {
+            "size": 6,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR5x10": {
+            "size": 10,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR5x6": {
+            "size": 6,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR5x8": {
+            "size": 8,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR6x10": {
+            "size": 10,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR6x12": {
+            "size": 12,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO10646"
+        },
+        "clR6x13": {
+            "size": 13,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR6x6": {
+            "size": 6,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR6x8": {
+            "size": 8,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR7x10": {
+            "size": 10,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR7x12": {
+            "size": 12,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR7x14": {
+            "size": 14,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR7x8": {
+            "size": 8,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR8x10": {
+            "size": 10,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR8x12": {
+            "size": 12,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR8x13": {
+            "size": 13,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR8x14": {
+            "size": 14,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR8x16": {
+            "size": 16,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR8x8": {
+            "size": 8,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        },
+        "clR9x15": {
+            "size": 15,
+            "family_name": "Clean",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ASCII"
+        }
+    },
+    "font-screen-cyrillic-1.0.5": {
+        "screen8x16": {
+            "size": 16,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        },
+        "screen8x16b": {
+            "size": 16,
+            "family_name": "Fixed",
+            "weight_name": "Bold",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        }
+    },
+    "font-sony-misc-1.0.4": {
+        "12x24": {
+            "size": 24,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "12x24rk": {
+            "size": 24,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "JISX0201.1976"
+        },
+        "8x16": {
+            "size": 16,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "ISO8859-1"
+        },
+        "8x16rk": {
+            "size": 24,
+            "family_name": "Fixed",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "JISX0201.1976"
+        }
+    },
+    "font-sun-misc-1.0.4": {
+        "olcursor": {
+            "size": 12,
+            "family_name": "OPEN LOOK cursor",
+            "weight_name": "",
+            "slant": "",
+            "charset_registry": "SunOLcursor"
+        },
+        "olgl10": {
+            "size": 10,
+            "family_name": "OPEN LOOK glyph",
+            "weight_name": "",
+            "slant": "",
+            "charset_registry": "SunOLglyph"
+        },
+        "olgl12": {
+            "size": 12,
+            "family_name": "OPEN LOOK glyph",
+            "weight_name": "",
+            "slant": "",
+            "charset_registry": "SunOLglyph"
+        },
+        "olgl14": {
+            "size": 14,
+            "family_name": "OPEN LOOK glyph",
+            "weight_name": "",
+            "slant": "",
+            "charset_registry": "SunOLglyph"
+        },
+        "olgl19": {
+            "size": 19,
+            "family_name": "OPEN LOOK glyph",
+            "weight_name": "",
+            "slant": "",
+            "charset_registry": "SunOLglyph"
+        }
+    },
+    "font-winitzki-cyrillic-1.0.4": {
+        "proof9x16": {
+            "size": 16,
+            "family_name": "Unknown",
+            "weight_name": "Medium",
+            "slant": "R",
+            "charset_registry": "KOI8"
+        }
+    }
+}

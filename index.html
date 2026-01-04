@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XOrg Pixel Fonts</title>
+</head>
+<body>
+    <h1>XOrg Pixel Fonts</h1>
+    <div class="scale-controls">
+        <fieldset>
+            <legend>Scale</legend>
+            <label><input type="radio" name="font-scale" value="1" checked>1×</label>
+            <label><input type="radio" name="font-scale" value="1.5">1.5×</label>
+            <label><input type="radio" name="font-scale" value="2">2×</label>
+            <label><input type="radio" name="font-scale" value="2.5">2.5×</label>
+            <label><input type="radio" name="font-scale" value="3">3×</label>
+        </fieldset>
+    </div>
+    <script>
+        (async () => {
+            const radios = document.querySelectorAll('input[name="font-scale"]');
+            const setScale = value => document.documentElement.style.setProperty('--scale', value);
+            setScale('1');
+            radios.forEach(radio => {
+                radio.addEventListener('change', event => {
+                    if (event.target.checked) {
+                        setScale(event.target.value);
+                    }
+                });
+            });
+
+            const req = await fetch("./build_summary.json");
+            const data = await req.json();
+
+            let fontFamilyStyles = `
+@font-face {
+    font-family: Tofu;
+    src: url("data:font/ttf;base64,AAEAAAAMAIAAAwBAQ09MUgAAAAAAAATEAAAADkNQQUwAAQAOAAAE1AAAAA5PUy8yXy9eUgAAAUgAAABgY21hcAAu/PYAAAGwAAAAZGdseWYziTUFAAACHAAAAZ5oZWFkK9bSnAAAAMwAAAA2aGhlYQiyCF8AAAEEAAAAJGhtdHgFVwAzAAABqAAAAAZsb2NhAM8AAAAAAhQAAAAGbWF4cAAHAI8AAAEoAAAAIG5hbWUOASU8AAADvAAAANxwb3N0cGx5dAAABJgAAAArAAEAAAABAACG3ugeXw889QADBAAAAAAA4+LHcAAAAADj4sdwAFz/CwSeA7YAAAAGAAIAAAAAAAAAAQAAA7b/BgAABPsAXABdBJ4EAAAAAAAAAAAAAAAAAAAAAAEAAQAAAAIAjgAEAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAEBPsBkAAFAAQCmgJmAAAATQKaAmYAAAFmADMBMwAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAABOT05FAMAAAAAgA7b/BgAAA7YA+gAAAAEAAAAAAgACzQAAACAAAAT7ADMAXAAAAAAAAwAAAAMAAAAcAAMAAQAAABwAAwAKAAAAPAAEACAAAAAEAAQAAQAAAAH//wAAAAH//wAAAAEAAAAAAA0AAAAAACgAAAAAAAAAAgAAAAIAAP4OAAAAAQAA/hAAEP//AAAAAQAAAAAAzwAAAAQAXP8LBJ4DtgAhAEYAdwCNAAATFBYXDgIXHgIXIT4CNzYmJic+AicuAichIg4CEyYmNTQ2NjMhMhYWFRQGBgceAhUUBgYjIS4CJyY2NjcmJiclNSIGBwYHBxcXNzY2NzY2MzIWFxYHFAcGBgcGBgcGBhUVMzU0Njc3NjY3NjU0JicmAzM2JicmBgcGBhUUFhcWFjMyNjc2Nlw3MzE1AxoZX3xGAZlGfF8ZGgM1MTE1AxoZX3xG/mdHe141ryouRHNHAZlHc0QvVDc4VjFFdEf+Z0FuSAkJKlo+HTIWAX4hLxIrDA4pKQgGDQkGFg0SFwoTAgsEFA4RGgYJBV8FBiQSHAgRGBcqDAIBFhISJg4KCQkKCRcMDBcJCgkCXEeDMTF+iEFBYjgDAzhiQUGIfjExfYlBQWI4AjZffv7yJWc4R3ZGRnZHOmZKERBKZjtHdkYBO2ZAQHVXEwgaFNgCDwwVKiAOEBsIDwQGBQgIEhoSDwgVDhEZDQwcDiQcChQIJhAeDiEgHy8VJv4gEyEHCAkPCBcMDRcICgkJCggXAAAAAAAGAE4AAwABBAkAAQAIAAAAAwABBAkAAgAOAAgAAwABBAkAAwAuABYAAwABBAkABAAYAEQAAwABBAkABQAaAFwAAwABBAkABgAYAHYAVABvAGYAdQBSAGUAZwB1AGwAYQByADEALgAwADAAMAA7AE4ATwBOAEUAOwBUAG8AZgB1AC0AUgBlAGcAdQBsAGEAcgBUAG8AZgB1ACAAUgBlAGcAdQBsAGEAcgBWAGUAcgBzAGkAbwBuACAAMQAuADAAMAAwAFQAbwBmAHUALQBSAGUAZwB1AGwAYQByAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAQIEdG9mdQAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAOAAAAAA==");
+}
+                `;
+
+            const weightMapping = {
+                "Regular": 400,
+                "Medium": 500,
+                "DemiBold": 600,
+                "Bold": 700,
+            };
+
+            const slantMapping = {
+                "R": "normal",
+                "I": "italic",
+                "O": "oblique",
+            };
+
+            const latinSampleText = "The quick brown fox jumps over the lazy dog. THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG. 0123456789";
+            const japaneseSampleText = "すべての人間は、生まれながらにして自由であり、尊厳と権利とについて平等である。人は理性と良心とを授けられており、互いに兄弟の精神をもって行動しなければならない。";
+            const japaneseHankakuKatakanaSampleText = [..."ｽﾍﾞﾃﾉ ﾆﾝｹﾞﾝﾊ､ ｳﾏﾚﾅｶﾞﾗﾆｼﾃ ｼﾞﾕｳﾃﾞｱﾘ､ ｿﾝｹﾞﾝﾄ ｹﾝﾘﾄ ﾆ ﾂｲﾃ ﾋﾞｮｳﾄﾞｳﾃﾞ ｱﾙ｡ ﾋﾄ ﾊ ﾘｾｲ ﾄ ﾘｮｳｼﾝ ﾄ ｵ ｻｽｹﾗﾚﾃ ｵﾘ､ ﾀｶﾞｲ ﾆ ｷｮｳﾀﾞｲ ﾉ ｾｲｼﾝ ｵ ﾓｯﾃ ｺｳﾄﾞｳ ｼﾅｹﾚﾊﾞ ﾅﾗﾅｲ｡"].map(c => String.fromCharCode(
+                c.charCodeAt(0) > 0xff60 ? c.charCodeAt(0) - 0xff60 + 0xa0 : c.charCodeAt(0)
+            )).join('');
+            const cyrillicSampleText = "Все люди рождаются свободными и равными в своем достоинстве и правах. Они наделены разумом и совестью и должны поступать в отношении друг друга в духе братства.";
+            const arabicSampleText = "كل الناس يولدون أحراراً ومتساوين في الكرامة والحقوق. وقد وهبوا العقل والضمير، وعليهم أن يعامل بعضهم بعضاً بروح الإخاء.";
+            const sampleTextMapping = {
+                "ASCII": latinSampleText,
+                "Adobe": latinSampleText,
+                // "DEC": latinSampleText
+                // "FontSpecific": latinSampleText,
+                "GB2312": "人人生而自由，在尊严和权利上一律平等。他们赋有理性和良知，并应以兄弟关系的精神相对待。",
+                "ISO8859-1": latinSampleText,
+                "ISO10646": latinSampleText,
+                "JIS0208": japaneseSampleText,
+                "JISX0201.1976": japaneseHankakuKatakanaSampleText,
+                "KOI8": cyrillicSampleText,
+                "KSC5601": "모든 인간은 태어날 때부터 자유로우며 존엄과 권리에 있어서 평등하다. 그들은 이성과 양심을 부여받았으며 서로에게 형제애의 정신으로 행동해야 한다.",
+                // "Misc": latinSampleText,
+                // "SunOLcursor": latinSampleText
+                // "SunOLglyph": latinSampleText
+            };
+
+
+            Object.entries(data).forEach(([folder, fonts]) => {
+                const details = document.createElement("details");
+                const summary = document.createElement("summary");
+                const h2 = document.createElement("h2");
+                h2.style.display = "inline";
+                h2.textContent = folder;
+                summary.appendChild(h2);
+                details.appendChild(summary);
+
+                const ul = document.createElement("ul");
+                Object.entries(fonts).forEach(([key, font]) => {
+                    const li = document.createElement("li");
+                    const h3 = document.createElement("h3");
+                    const name = `${font.family_name || key} ${font.size || '(No encoded glyphs)'}`;
+                    const displayName = `${name} ${font.weight_name} ${font.slant}`;
+                    const identifier = `${folder}-${key}`;
+                    h3.textContent = displayName;
+                    li.appendChild(h3);
+                    ul.appendChild(li);
+
+                    fontFamilyStyles += `
+@font-face {
+    font-family: '${identifier}';
+    src: url('./${folder}/${key}.ttf') format('truetype');
+    font-weight: ${weightMapping[font.weight_name] ?? 400};
+    font-style: ${slantMapping[font.slant] ?? 'normal'};
+}
+`;
+                    const sampleText = document.createElement("p");
+                    sampleText.dir = "auto";
+                    sampleText.textContent = sampleTextMapping[font.charset_registry] ?? latinSampleText;
+                    if (folder.includes("arabic")) {
+                        sampleText.textContent = arabicSampleText;
+                        sampleText.lang = "ar";
+                    } else if (key === "cu-alt12") {
+                        sampleText.textContent = "ყოველი ადამიანი იბადება თავისუფალი და თანასწორი თავისი ღირსებითა და უფლებებით. მათ მინიჭებული აქვთ გონება და სინდისი და ერთმანეთის მიმართ უნდა ექცეოდნენ ძმობის სულისკვეთებით.";
+                        sampleText.lang = "ka";
+                    } else if (key === "cuarabic12") {
+                        sampleText.textContent = Array.from({ length: 0xf64a - 0xf640 + 1 }, (_, i) => String.fromCharCode(0xf640 + i)).join('');
+                        sampleText.title = "PUA Arabic characters";
+                        sampleText.style.textDecoration = "underline dotted";
+                        sampleText.lang = "ar";
+                    } else if (key === "cu-arabic12") {
+                        sampleText.textContent = Array.from({ length: 0xf01f - 0xf000 + 1 }, (_, i) => String.fromCharCode(0xf000 + i)).join('');
+                        sampleText.title = "PUA Arabic characters";
+                        sampleText.style.textDecoration = "underline dotted";
+                        sampleText.lang = "ar";
+                    } else if (key === "cudevnag12") {
+                        sampleText.textContent = Array.from({ length: 0xf938 - 0xf904 + 1 }, (_, i) => String.fromCharCode(0xf904 + i)).join('');
+                        sampleText.title = "PUA Devanagari characters";
+                        sampleText.style.textDecoration = "underline dotted";
+                        sampleText.lang = "hi";
+                    } else if (key === "cu-devnag12") {
+                        sampleText.textContent = Array.from({ length: 0xf01f - 0xf000 + 1 }, (_, i) => String.fromCharCode(0xf000 + i)).join('');
+                        sampleText.title = "PUA Devanagari characters";
+                        sampleText.style.textDecoration = "underline dotted";
+                        sampleText.lang = "hi";
+                    } else if (key === "cu-lig12") {
+                        sampleText.textContent = Array.from({ length: 0xf0ae - 0xf081 + 1 }, (_, i) => String.fromCharCode(0xf081 + i)).join('');
+                        sampleText.title = "PUA characters";
+                        sampleText.style.textDecoration = "underline dotted";
+                    } else if (key === "cu-pua12") {
+                        sampleText.textContent = Array.from({ length: 0xf8f9 - 0xf8d0 + 1 }, (_, i) => String.fromCharCode(0xf8d0 + i)).join('');
+                        sampleText.title = "PUA characters";
+                        sampleText.style.textDecoration = "underline dotted";
+                    } else if (key === "olcursor") {
+                        sampleText.textContent = Array.from({ length: 0x1b - 0x01 + 1 }, (_, i) => String.fromCharCode(0x01 + i)).join('');
+                        sampleText.title = "Cursor characters 0x01-0x1B";
+                        sampleText.style.textDecoration = "underline dotted";
+                    }
+                    sampleText.style.fontFamily = `'${identifier}', Tofu`;
+                    sampleText.style.fontSize = `calc(${font.size}px * var(--scale, 1))`;
+                    sampleText.style.lineHeight = `calc((${font.size}px + 2px) * var(--scale, 1))`;
+                    sampleText.style.fontWeight = weightMapping[font.weight_name] ?? 400;
+                    sampleText.style.fontStyle = slantMapping[font.slant] ?? 'normal';
+                    li.appendChild(sampleText);
+                });
+                details.appendChild(ul);
+                document.body.appendChild(details);
+
+                const style = document.createElement("style");
+                style.textContent = fontFamilyStyles;
+                document.head.appendChild(style);
+            });
+        })();
+    </script>
+</body>
+</html>
