@@ -16,6 +16,9 @@ def build():
         name = path.stem
         if name not in summary[folder]:
             summary[folder][name] = {}
+        pixel_size = 0
+        ascent = 0
+        descent = 0
         font_size = 0
         family_name = ""
         weight_name = "Regular"
@@ -24,7 +27,11 @@ def build():
         with open(path, "r") as f:
             for line in f.readlines():
                 if line.startswith("PIXEL_SIZE"):
-                    font_size = int(line.split()[1])
+                    pixel_size = int(line.split()[1])
+                elif line.startswith("FONT_ASCENT"):
+                    ascent = int(line.split()[1])
+                elif line.startswith("FONT_DESCENT"):
+                    descent = int(line.split()[1])
                 elif line.startswith("FAMILY_NAME"):
                     family_name = " ".join(line.split()[1:]).replace('"', '')
                 elif line.startswith("WEIGHT_NAME"):
@@ -35,9 +42,14 @@ def build():
                     charset_registry = " ".join(line.split()[1:]).replace('"', '')
         output_path = path.with_suffix(".ttf")
 
+        if ascent + descent != 0:
+            font_size = ascent + descent
+        else:
+            font_size = pixel_size
+
         cmd = [
             "-jar",
-            os.environ.get("PITNPICAS", "pitnpicas.jar"),
+            os.environ.get("BITSNPICAS", "bitsnpicas.jar"),
             "convertbitmap",
             "-f", "ttf",
             "-o", str(output_path),
@@ -65,6 +77,9 @@ def build_json():
         name = path.stem
         if name not in summary[folder]:
             summary[folder][name] = {}
+        pixel_size = 0
+        ascent = 0
+        descent = 0
         font_size = 0
         family_name = ""
         weight_name = "Regular"
@@ -73,7 +88,11 @@ def build_json():
         with open(path, "r") as f:
             for line in f.readlines():
                 if line.startswith("PIXEL_SIZE"):
-                    font_size = int(line.split()[1])
+                    pixel_size = int(line.split()[1])
+                elif line.startswith("FONT_ASCENT"):
+                    ascent = int(line.split()[1])
+                elif line.startswith("FONT_DESCENT"):
+                    descent = int(line.split()[1])
                 elif line.startswith("FAMILY_NAME"):
                     family_name = " ".join(line.split()[1:]).replace('"', '')
                 elif line.startswith("WEIGHT_NAME"):
@@ -83,6 +102,10 @@ def build_json():
                 elif line.startswith("CHARSET_REGISTRY"):
                     charset_registry = " ".join(line.split()[1:]).replace('"', '')
         output_path = path.with_suffix(".ttf")
+        if ascent + descent != 0:
+            font_size = ascent + descent
+        else:
+            font_size = pixel_size
 
         summary[folder][name]["size"] = font_size
         summary[folder][name]["family_name"] = family_name
