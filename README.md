@@ -21,6 +21,7 @@ Styles of the same bitmap strike share the maximum source ascent and maximum
 source descent. Strikes are matched within each source folder by family,
 foundry, nominal pixel/point size, resolution, width class, additional style,
 spacing and character set; fixed-width fonts also retain their cell width.
+Foundry identifiers are compared case-insensitively.
 Fonts without enough strike metadata are kept separate.
 
 Only temporary BDF properties are normalized. Source bitmaps, glyph offsets,

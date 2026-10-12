@@ -66,6 +66,15 @@ class FontBuildTests(unittest.TestCase):
                 build.strike_key(Path("source/b.bdf"), properties),
             )
 
+    def test_foundry_case_does_not_split_matching_styles(self):
+        fonts = build.load_fonts()
+        folder = build.ROOT / "font-misc-cyrillic-1.0.4"
+        regular = fonts[folder / "koi12x24.bdf"]
+        bold = fonts[folder / "koi12x24b.bdf"]
+        self.assertEqual(regular["strike"], bold["strike"])
+        self.assertEqual((regular["ascent"], regular["descent"]), (22, 3))
+        self.assertEqual(regular["size"], bold["size"])
+
     def test_normalization_preserves_glyphs_and_source(self):
         for path in build.ROOT.glob("*/*.bdf"):
             with self.subTest(path=path):

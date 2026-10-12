@@ -37,7 +37,9 @@ def strike_key(path, properties):
     if not properties.get("FAMILY_NAME") or not int(properties.get("PIXEL_SIZE", 0)):
         return (path.parent.name, path.stem)
     key = (path.parent.name,) + tuple(
-        properties.get(name, "") for name in STRIKE_PROPERTIES
+        properties.get(name, "").casefold() if name == "FOUNDRY"
+        else properties.get(name, "")
+        for name in STRIKE_PROPERTIES
     )
     # Fixed-width strikes of equal height can have different cell widths.
     if properties.get("SPACING") in ("C", "M"):
