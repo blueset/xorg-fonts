@@ -190,16 +190,21 @@
                     if (!familyMap[familyName]) {
                         familyMap[familyName] = {};
                     }
-                    if (!familyMap[familyName][font.size]) {
-                        familyMap[familyName][font.size] = [[], [], [], []];
+                    const strike = font.strike ?? String(font.size);
+                    if (!familyMap[familyName][strike]) {
+                        familyMap[familyName][strike] = {
+                            size: font.size,
+                            strike,
+                            styles: [[], [], [], []]
+                        };
                     }
                     const styleIndex = ((weightMapping[font.weight_name] ?? 400) < 550 ? 0 : 0b10) +
                         (slantMapping[font.slant] === "normal" ? 0 : 1);
-                    familyMap[familyName][font.size][styleIndex].push([
+                    familyMap[familyName][strike].styles[styleIndex].push([
                         h4.cloneNode(true),
                         sampleText.cloneNode(true)
                     ]);
-                    familyMap[familyName][font.size][styleIndex].at(-1)[0].querySelector('code').insertAdjacentText('afterbegin', `${folder}/`);
+                    familyMap[familyName][strike].styles[styleIndex].at(-1)[0].querySelector('code').insertAdjacentText('afterbegin', `${folder}/`);
                 });
                 details.appendChild(ul);
                 document.body.appendChild(details);
@@ -228,10 +233,11 @@
                 });
                 table.appendChild(headerRow);
 
-                Object.entries(sizeMap).forEach(([size, styles]) => {
+                Object.values(sizeMap).sort((a, b) => a.size - b.size).forEach(({size, strike, styles}) => {
                     const row = document.createElement("tr");
                     const sizeCell = document.createElement("th");
                     sizeCell.textContent = size;
+                    sizeCell.title = strike;
                     row.appendChild(sizeCell);
 
                     styles.forEach(styleFonts => {
